@@ -1,0 +1,22 @@
+# Data files
+data/raw/
+data/processed/
+
+app/
+models/saved/
+
+src/data/
+src/models/
+src/esg/
+src/evaluation/
+src/utils/
+src/features/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS
+.DS_Store
